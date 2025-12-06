@@ -1,3 +1,4 @@
-# Codebase for our paper "Do Language Models Use Their Depth Efficiently?"
-
-We have two independent codebases, one for the analysis, which is most of the paper, and one for traning and finetuning. Each of the subfolders has its own readme file. Please check those for more details.
+> **Note:** This repository is a heavily modified version of the original codebase from  
+> *"Do Language Models Use Their Depth Efficiently?"*.  
+> While the structure and some components are based on the original work, significant changes
+> have been made to functionality, analyses, training procedures, and documentation.
